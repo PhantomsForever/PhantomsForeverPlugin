@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26923.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhantomsForever Plugin", "PhantomsForever Plugin\PhantomsForever Plugin.csproj", "{1EE081CA-C01B-4D68-B5DA-DE4362727E1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EE081CA-C01B-4D68-B5DA-DE4362727E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE081CA-C01B-4D68-B5DA-DE4362727E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE081CA-C01B-4D68-B5DA-DE4362727E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE081CA-C01B-4D68-B5DA-DE4362727E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E90D87BA-37C0-40ED-94C0-25BE35E05AE8}
+	EndGlobalSection
+EndGlobal
