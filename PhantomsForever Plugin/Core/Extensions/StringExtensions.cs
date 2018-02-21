@@ -10,7 +10,7 @@ namespace PhantomsForever_Plugin.Core.Extensions
     {
         public static String ljust(this String str, int count, char character)
         {
-            for(var i = 0; i >= count; i++)
+            for(var i = 0; i <= count; i++)
             {
                 str += character;
             }
